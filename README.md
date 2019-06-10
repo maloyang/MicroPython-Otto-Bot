@@ -12,3 +12,6 @@
 - [雲林Song](https://yunlinsong.blogspot.com/2016/12/arduino-otto.html)
 
 - [研發養成所 - otto like](http://4rdp.blogspot.com/2017/09/rosa-39-otto-like.html)
+
+- [彰化縣自造教育及科技中心 - arduino教學](http://163.23.66.90/~wp/maker/2017/07/03/otto-robot/)
+
